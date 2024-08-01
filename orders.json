@@ -1,0 +1,913 @@
+[
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123123123",
+    "phone": "122",
+    "paymentMethod": [
+      "QR",
+      "Efectivo"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 8250,
+        "comments": "",
+        "extras": []
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 9200,
+        "comments": "",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          }
+        ]
+      },
+      {
+        "product": "Cuarto de Libra DELUXE",
+        "description": "Cheddar, Aderezo 1/4 Libra (Ketchup, Mostaza, Cebolla picada) Pepinillos gratis a elección",
+        "selectedOption": "SIMPLE",
+        "selectedPrice": 7120,
+        "finalPrice": 7120,
+        "comments": "asdasd",
+        "extras": []
+      },
+      {
+        "product": "Especial GRAN CASITA",
+        "description": "Bacon, Morrón Asado, Cebolla Caramelizada, Barbacoa Ahumada,  Huevo Frito y Queso Provoleta.",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 9990,
+        "finalPrice": 11490,
+        "comments": "asdasd",
+        "extras": [
+          {
+            "product": "CARNE 140GR SIN QUESO",
+            "price": 1500
+          }
+        ]
+      }
+    ],
+    "totalPrice": 30651,
+    "discount": 15
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 8250,
+        "comments": "",
+        "extras": []
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 10550,
+        "comments": "sin cebolla",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          },
+          {
+            "product": "PROVOLETA",
+            "price": 1350
+          }
+        ]
+      },
+      {
+        "product": "BURGER A LA PIZZA",
+        "description": "Queso Muzzarella, Salsa de Pizza Casera, Aceituna  en Rodajas (opcional)",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 7360,
+        "finalPrice": 7360,
+        "comments": "sin el pan de arriba",
+        "extras": []
+      }
+    ],
+    "totalPrice": 19620,
+    "discount": 25
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123123123",
+    "phone": "123",
+    "paymentMethod": [
+      "QR",
+      "Efectivo"
+    ],
+    "items": [
+      {
+        "product": "p123",
+        "description": "estoe s un desc",
+        "selectedOption": "simple",
+        "selectedPrice": 320,
+        "finalPrice": 1270,
+        "comments": "sin cebolla",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          }
+        ]
+      },
+      {
+        "product": "GRAN CASITA DOBLE + GASEOSA",
+        "description": "gran casita doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 10340,
+        "finalPrice": 10340,
+        "comments": "",
+        "extras": []
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 9600,
+        "comments": "sin ketchap",
+        "extras": [
+          {
+            "product": "PROVOLETA",
+            "price": 1350
+          }
+        ]
+      }
+    ],
+    "totalPrice": 20149.5,
+    "discount": 5
+  },
+  {
+    "customerName": "berni123",
+    "address": "b123",
+    "comments": "123123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 8250,
+        "comments": "SIN CEBOLLA",
+        "extras": []
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 10550,
+        "comments": "sin ketchap",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          },
+          {
+            "product": "PROVOLETA",
+            "price": 1350
+          }
+        ]
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 9600,
+        "finalPrice": 12250,
+        "comments": "sin nada",
+        "extras": [
+          {
+            "product": "CARNE 140GR CON PROVO",
+            "price": 2650
+          }
+        ]
+      }
+    ],
+    "totalPrice": 27945,
+    "discount": 10
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123123123123123123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 8250,
+        "comments": "",
+        "extras": []
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 9600,
+        "finalPrice": 11700,
+        "comments": "sin cebolla",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          },
+          {
+            "product": "BACON",
+            "price": 1150
+          }
+        ]
+      },
+      {
+        "product": "x4 CHEESE SIMPLE + X4 GASEOSA",
+        "description": "4 cheeseburger simples con papas + 4 gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 25270,
+        "finalPrice": 26620,
+        "comments": "asdasdasdasd",
+        "extras": [
+          {
+            "product": "PROVOLETA",
+            "price": 1350
+          }
+        ]
+      },
+      {
+        "product": "prueba1234",
+        "description": "prueba1234",
+        "selectedOption": "op1",
+        "selectedPrice": 1,
+        "finalPrice": 1,
+        "comments": "",
+        "extras": []
+      }
+    ],
+    "totalPrice": 41913.9,
+    "discount": 10
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 9750,
+        "comments": "",
+        "extras": [
+          {
+            "product": "CARNE 140GR SIN QUESO",
+            "price": 1500
+          }
+        ]
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "SIMPLE",
+        "selectedPrice": 6560,
+        "finalPrice": 6560,
+        "comments": "",
+        "extras": []
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 9200,
+        "comments": "sin cebolla",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          }
+        ]
+      }
+    ],
+    "totalPrice": 22959,
+    "discount": 10
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 8250,
+        "comments": "",
+        "extras": []
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 9200,
+        "comments": "sin cebolla",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          }
+        ]
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "SIMPLE",
+        "selectedPrice": 6560,
+        "finalPrice": 6560,
+        "comments": "",
+        "extras": []
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 9600,
+        "finalPrice": 10750,
+        "comments": "asdasd",
+        "extras": [
+          {
+            "product": "BACON",
+            "price": 1150
+          }
+        ]
+      },
+      {
+        "product": "CHEESEBURGER",
+        "description": "cheddar",
+        "selectedOption": "SIMPLE",
+        "selectedPrice": 5520,
+        "finalPrice": 5520,
+        "comments": "",
+        "extras": []
+      }
+    ],
+    "totalPrice": 40280,
+    "discount": 0
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 33000,
+        "comments": "",
+        "extras": [],
+        "quantity": 4
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 9200,
+        "comments": "sin cebolla",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          }
+        ],
+        "quantity": 1
+      },
+      {
+        "product": "x4 CHEESE SIMPLE + X4 GASEOSA",
+        "description": "4 cheeseburger simples con papas + 4 gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 25270,
+        "finalPrice": 25270,
+        "comments": "",
+        "extras": [],
+        "quantity": 1
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 8250,
+        "comments": "sin cebolla",
+        "extras": [],
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 75720,
+    "discount": 0
+  },
+  {
+    "customerName": "qwe",
+    "address": "qwe",
+    "comments": "123123123",
+    "phone": "123",
+    "paymentMethod": [
+      "QR",
+      "Efectivo"
+    ],
+    "items": [
+      {
+        "product": "BACON CHEESEBURGER",
+        "description": "bacon y cheddar",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 8080,
+        "finalPrice": 9230,
+        "comments": "",
+        "extras": [
+          {
+            "product": "BACON",
+            "price": 1150
+          }
+        ],
+        "quantity": 1
+      },
+      {
+        "product": "BACON CHEESEBURGER",
+        "description": "bacon y cheddar",
+        "selectedOption": "SIMPLE",
+        "selectedPrice": 6160,
+        "finalPrice": 41300,
+        "comments": "SIN CEBOLLA",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          },
+          {
+            "product": "BACON",
+            "price": 1150
+          }
+        ],
+        "quantity": 5
+      },
+      {
+        "product": "BACON CHEESEBURGER",
+        "description": "bacon y cheddar",
+        "selectedOption": "SIMPLE",
+        "selectedPrice": 6160,
+        "finalPrice": 6160,
+        "comments": "",
+        "extras": [],
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 45352,
+    "discount": 20
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 82500,
+        "comments": "",
+        "extras": [],
+        "quantity": 10
+      },
+      {
+        "product": "x4 CHEESE SIMPLE + X4 GASEOSA",
+        "description": "4 cheeseburger simples con papas + 4 gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 25270,
+        "finalPrice": 27570,
+        "comments": "sion cebolla",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          },
+          {
+            "product": "PROVOLETA",
+            "price": 1350
+          }
+        ],
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 110070,
+    "discount": 0
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 36800,
+        "comments": "sin cebolla",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          }
+        ],
+        "quantity": 4
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 9600,
+        "finalPrice": 41400,
+        "comments": "sin ketchap",
+        "extras": [
+          {
+            "product": "HUEVO",
+            "price": 750
+          }
+        ],
+        "quantity": 4
+      }
+    ],
+    "totalPrice": 78200,
+    "discount": 0
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 49500,
+        "comments": "",
+        "extras": [],
+        "quantity": 6
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 9600,
+        "finalPrice": 40600,
+        "comments": "123123",
+        "extras": [
+          {
+            "product": "TOMATE",
+            "price": 550
+          }
+        ],
+        "quantity": 4
+      }
+    ],
+    "totalPrice": 90100,
+    "discount": 0
+  },
+  {
+    "customerName": "213",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 51750,
+        "comments": "123123",
+        "extras": [
+          {
+            "product": "CARNE 140GR CON CHEDDAR X2",
+            "price": 2100
+          }
+        ],
+        "quantity": 5
+      },
+      {
+        "product": "GRAN CASITA DOBLE + GASEOSA",
+        "description": "gran casita doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 10340,
+        "finalPrice": 56450,
+        "comments": "123123",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          }
+        ],
+        "quantity": 5
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 9600,
+        "finalPrice": 46800,
+        "comments": "123123123",
+        "extras": [
+          {
+            "product": "CARNE 140GR CON CHEDDAR X2",
+            "price": 2100
+          }
+        ],
+        "quantity": 4
+      }
+    ],
+    "totalPrice": 124000,
+    "discount": 20
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 20700,
+        "comments": "SIN CEBOLLA",
+        "extras": [
+          {
+            "product": "CARNE 140GR CON CHEDDAR X2",
+            "price": 2100
+          }
+        ],
+        "quantity": 2
+      },
+      {
+        "product": "ARGENTINA ESPECIAL",
+        "description": "Cheddar, Jamón, Morrón Asado, Huevo Frito",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 8680,
+        "finalPrice": 19660,
+        "comments": "SIN KETCHUIP",
+        "extras": [
+          {
+            "product": "BACON",
+            "price": 1150
+          }
+        ],
+        "quantity": 2
+      },
+      {
+        "product": "COCA COLA 500ML",
+        "description": "COCA COLA 500ML",
+        "selectedOption": "BOTELLA 500ML",
+        "selectedPrice": 1499,
+        "finalPrice": 4497,
+        "comments": "",
+        "extras": [],
+        "quantity": 3
+      }
+    ],
+    "totalPrice": 40371.3,
+    "discount": 10
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "QR",
+      "Efectivo"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 18400,
+        "comments": "SIN CEBOLLA\n",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          }
+        ],
+        "quantity": 2
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 20700,
+        "comments": "SIN KETCHUP",
+        "extras": [
+          {
+            "product": "CARNE 140GR CON CHEDDAR X2",
+            "price": 2100
+          }
+        ],
+        "quantity": 2
+      },
+      {
+        "product": "BACON CHEESEBURGER",
+        "description": "bacon y cheddar",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 8080,
+        "finalPrice": 20360,
+        "comments": "SIN KETCHUP",
+        "extras": [
+          {
+            "product": "CHEDDAR",
+            "price": 950
+          },
+          {
+            "product": "BACON",
+            "price": 1150
+          }
+        ],
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 53514,
+    "discount": 10
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "Efectivo",
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 16500,
+        "comments": "",
+        "extras": [],
+        "quantity": 2
+      },
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 21800,
+        "comments": "123123",
+        "extras": [
+          {
+            "product": "CARNE 140GR CON PROVO",
+            "price": 2650
+          }
+        ],
+        "quantity": 2
+      },
+      {
+        "product": "LA ITALIANA",
+        "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+        "selectedOption": "DOBLE",
+        "selectedPrice": 9600,
+        "finalPrice": 11100,
+        "comments": "123123",
+        "extras": [
+          {
+            "product": "CARNE 140GR SIN QUESO",
+            "price": 1500
+          }
+        ],
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 49400,
+    "discount": 0
+  },
+  {
+    "customerName": "123",
+    "address": "123",
+    "comments": "123",
+    "phone": "123",
+    "paymentMethod": [
+      "QR"
+    ],
+    "items": [
+      {
+        "product": "CHEESEBURGER DOBLE + GASEOSA",
+        "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 8250,
+        "finalPrice": 33000,
+        "comments": "",
+        "extras": [],
+        "quantity": 4
+      },
+      {
+        "product": "x4 CHEESE SIMPLE + X4 GASEOSA",
+        "description": "4 cheeseburger simples con papas + 4 gaseosa coca-cola 500ml",
+        "selectedOption": ".",
+        "selectedPrice": 25270,
+        "finalPrice": 26770,
+        "comments": "sdasd",
+        "extras": [
+          {
+            "product": "CARNE 140GR SIN QUESO",
+            "price": 1500
+          }
+        ],
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 59770,
+    "discount": 0
+  }
+]

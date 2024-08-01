@@ -1,0 +1,84 @@
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width: 400px;
+  margin-bottom: 20px;
+  gap: 15px;
+}
+
+.menu-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.extra-dropdown .dropdown-menu {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.extra-dropdown .dropdown-item {
+  font-size: 0.875rem; /* Tamaño de fuente más pequeño */
+}
+
+.description {
+  height: 100px; 
+  overflow: hidden;
+}
+.cardtittle {
+  height: 50px; 
+  overflow: hidden;
+}
+
+
+
+
+/* Ensure all cards have the same height */
+.menu-item-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+/* Add styling for the buttons to ensure alignment */
+.menu-item-card .btn {
+  width: 48%;
+}
+
+/* Additional styling for the new option fields */
+.new-option-group {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* Ensure all cards are of equal height */
+.menu-item-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* Make sure the card body takes full height */
+.menu-item-card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Align buttons to the bottom of the card */
+.menu-item-card .mt-auto {
+  margin-top: auto;
+}

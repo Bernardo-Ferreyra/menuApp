@@ -1,0 +1,770 @@
+[
+  {
+    "product": "CHEESEBURGER DOBLE + GASEOSA",
+    "description": "cheeseburger doble con papas + gaseosa coca-cola 500ml",
+    "options": [
+      {
+        "type": ".",
+        "price": 8250
+      }
+    ],
+    "group": "COMBOS",
+    "id": "75ae2614-9124-4819-b2aa-316273d97981"
+  },
+  {
+    "product": "x4 CHEESE SIMPLE + X4 GASEOSA",
+    "description": "4 cheeseburger simples con papas + 4 gaseosa coca-cola 500ml",
+    "options": [
+      {
+        "type": ".",
+        "price": 25270
+      }
+    ],
+    "group": "COMBOS",
+    "id": "2b0511aa-b3ce-4071-b96b-f36354925722"
+  },
+  {
+    "product": "1/4 LIBRA DOBLE - PROVO SIMPLE + X2 GASEOSA",
+    "description": "1/4 de libra la casita azul con papas + provo,rucula y tomates confitados simple con papas + 2 gaseosas coca-cola 500ml",
+    "options": [
+      {
+        "type": ".",
+        "price": 15520
+      }
+    ],
+    "group": "COMBOS",
+    "id": "7573c768-69c9-45c2-ae20-13614fbddbe0"
+  },
+  {
+    "product": "GRAN CASITA DOBLE + GASEOSA",
+    "description": "gran casita doble con papas + gaseosa coca-cola 500ml",
+    "options": [
+      {
+        "type": ".",
+        "price": 10340
+      }
+    ],
+    "group": "COMBOS",
+    "id": "9a53b826-8301-49d1-b537-c7c650e838d0"
+  },
+  {
+    "product": "LA ITALIANA",
+    "description": "Mix de Queso Parmesano y Provolone, Pesto de Albahaca, Rúcula, Tomates Confitados y Alioli.",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6560
+      },
+      {
+        "type": "DOBLE",
+        "price": 9600
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "147ad2cc-6e7b-4e0c-8dbb-c106eb419989"
+  },
+  {
+    "product": "BURGER A LA PIZZA",
+    "description": "Queso Muzzarella, Salsa de Pizza Casera, Aceituna  en Rodajas (opcional)",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 5260
+      },
+      {
+        "type": "DOBLE",
+        "price": 7360
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "e45efc6f-5733-4c95-a63d-43edc19a3fa9"
+  },
+  {
+    "product": "CHEESEBURGER",
+    "description": "cheddar",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 5520
+      },
+      {
+        "type": "DOBLE",
+        "price": 7680
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "6d335845-d718-4031-a194-83b79b630dc8"
+  },
+  {
+    "product": "BACON CHEESEBURGER",
+    "description": "bacon y cheddar",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6160
+      },
+      {
+        "type": "DOBLE",
+        "price": 8080
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "fb8cdb4b-4016-414d-b571-bab53d0219c2"
+  },
+  {
+    "product": "AMERICAN CLASSIC",
+    "description": "Cheddar, Bacon, Cebolla Caramelizada o Morada, Lechuga, Tomate Pepinillos gratis a elección",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6960
+      },
+      {
+        "type": "DOBLE",
+        "price": 8880
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "f26fd8b1-e221-4282-9a77-49b84ce3e57a"
+  },
+  {
+    "product": "ARGENTINA COMPLETA CLASICA",
+    "description": "Cheddar, Jamón, Lechuga, Tomate, Huevo Frito",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6920
+      },
+      {
+        "type": "DOBLE",
+        "price": 8880
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "82196116-385d-4db9-96c3-cf88b070e7b7"
+  },
+  {
+    "product": "ARGENTINA ESPECIAL",
+    "description": "Cheddar, Jamón, Morrón Asado, Huevo Frito",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6720
+      },
+      {
+        "type": "DOBLE",
+        "price": 8680
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "9c3d5b52-55fb-4397-a2fe-93fe0d020b71"
+  },
+  {
+    "product": "1/4 DE LIBRA AZUL",
+    "description": "Cheddar, Aderezo 1/4 Libra (Ketchup, Mostaza, Cebolla picada) Pepinillos gratis a elección",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 5680
+      },
+      {
+        "type": "DOBLE",
+        "price": 7840
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "f71671ae-99d1-449d-b926-071dbe8f43ef"
+  },
+  {
+    "product": "CHEDDAR BOMB",
+    "description": "El doble de Cheddar que una Cheeseburger y un poquito más",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6000
+      },
+      {
+        "type": "DOBLE",
+        "price": 8280
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "9ff652d5-f7c0-4e77-9d54-ba2867a39525"
+  },
+  {
+    "product": "LA CAJITA AZUL",
+    "description": "Cheeseburger simple con papas, Jugo Baggio 200ml Juguete a elección (Consultar los modelos por WhatsApp)",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6760
+      }
+    ],
+    "group": "CLASICAS",
+    "id": "8d674d09-d8f9-4978-8c40-e0c0988fc9d2"
+  },
+  {
+    "product": "PROVO BACON HUEVO",
+    "description": "Provoleta, Bacon, Huevo Frito",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6960
+      },
+      {
+        "type": "DOBLE",
+        "price": 9440
+      }
+    ],
+    "group": "ESPECIALES",
+    "id": "1048bc22-de30-4cd8-82ce-c458748e051a"
+  },
+  {
+    "product": "PROVO RUCULA TOMATE",
+    "description": "Provoleta, Rúcula y Tomates Confitados",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6400
+      },
+      {
+        "type": "DOBLE",
+        "price": 9120
+      }
+    ],
+    "group": "ESPECIALES",
+    "id": "ea772ebf-1c74-4299-9bd0-d4e479766191"
+  },
+  {
+    "product": "ESPECIAL CRIOLLA",
+    "description": "Cheddar, Lechuga, Tomate, Salsa Criolla",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6480
+      },
+      {
+        "type": "DOBLE",
+        "price": 8600
+      }
+    ],
+    "group": "ESPECIALES",
+    "id": "1b2a164c-a8c5-4567-bc48-e0de86b485a2"
+  },
+  {
+    "product": "ESPECIAL BARBACOA AHUMADA",
+    "description": "Cheddar, Bacon, Cebolla Morada, Barbacoa Ahumada",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6360
+      },
+      {
+        "type": "DOBLE",
+        "price": 8318
+      }
+    ],
+    "group": "ESPECIALES",
+    "id": "38b6592f-c9c3-4550-97d6-8c0ad651521b"
+  },
+  {
+    "product": "ESPECIAL PICANTE",
+    "description": "Cheddar, Morrón Asado, Bacon, Salsa Picante",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6800
+      },
+      {
+        "type": "DOBLE",
+        "price": 8760
+      }
+    ],
+    "group": "ESPECIALES",
+    "id": "71824b77-4d1a-4654-8ac9-7d46b65ec6e7"
+  },
+  {
+    "product": "LA RANCHERA",
+    "description": "Cheddar o Provoleta, Chips de Bacon, Lechuga, Salsa Ranch",
+    "options": [
+      {
+        "type": "SIMPLE",
+        "price": 6920
+      },
+      {
+        "type": "DOBLE",
+        "price": 9040
+      }
+    ],
+    "group": "ESPECIALES",
+    "id": "54fafd6c-053d-44d3-82dc-de0f7f0a4560"
+  },
+  {
+    "product": "ESPECIAL VEGGIE",
+    "description": "Medallón Veggie a elección entre quinoa, porotos mung, o lentejón canadiense, Lechuga, Tomate, Cebolla Caramelizada, Morrón Asado",
+    "options": [
+      {
+        "type": "CHEDDAR",
+        "price": 6600
+      },
+      {
+        "type": "PROVOLETA",
+        "price": 7130
+      }
+    ],
+    "group": "ESPECIALES",
+    "id": "54940d7e-2773-4164-9fee-08c7151e4434"
+  },
+  {
+    "product": "PORCIÓN DE FRITAS",
+    "description": "Porción de Papas Fritas de 400gr.",
+    "options": [
+      {
+        "type": "PORCIÓN",
+        "price": 4120
+      }
+    ],
+    "group": "FRITAS",
+    "id": "b22262a1-1190-49f0-9475-5b27a9c4608c"
+  },
+  {
+    "product": "PORCIÓN CON CHEDDAR BACON Y VERDEO",
+    "description": "Porción de Papas Fritas de 400gr, con Cheddar, Bacon chips, Verdeo",
+    "options": [
+      {
+        "type": "PORCIÓN ",
+        "price": 5680
+      }
+    ],
+    "group": "FRITAS",
+    "id": "e0b2f63a-935b-49bb-93a0-390716a06de8"
+  },
+  {
+    "product": "POSTRE MANTECOL",
+    "description": "Base de galletitas de vainilla y Mantecol. Crema de queso y leche condensada con mantequilla de maní y Mantecol",
+    "group": "POSTRES",
+    "options": [
+      {
+        "type": "PORCION",
+        "price": 2999
+      }
+    ],
+    "id": "085e9bb3-b2cf-4ceb-b6c0-eea1a3a2bd30"
+  },
+  {
+    "product": "TIRAMISÚ",
+    "description": "Vainillas bañadas en café intenso con crema tradicional Mascarpone. Decorado con chocolate  rallado y cacao.",
+    "group": "POSTRES",
+    "options": [
+      {
+        "type": "PORCION",
+        "price": 2500
+      }
+    ],
+    "id": "d18f781d-15e7-4e7b-bb67-0aabcdce32e4"
+  },
+  {
+    "product": "CHEESECKAE FRUTILLA/DDL",
+    "description": "Base con galletitas, crema de queso con frutillas troceadas/dulce de leche. Mermelada casera de frutillas/Decorado con hilos de chocolate",
+    "group": "POSTRES",
+    "options": [
+      {
+        "type": "PORCION",
+        "price": 2500
+      }
+    ],
+    "id": "1dcbe488-2111-4602-ab31-0c8db2c98c52"
+  },
+  {
+    "product": "TORTA OREO",
+    "description": "Base de galletitas Oreo. Crema de queso con  galletitas troceadas. Decorado con mini Oreos y crema.",
+    "group": "POSTRES",
+    "options": [
+      {
+        "type": "PORCION",
+        "price": 2800
+      }
+    ],
+    "id": "c443c0a2-6856-41ae-ad9f-027622ef4cf4"
+  },
+  {
+    "product": "CHOCOTORTA",
+    "description": "Torta de Chocolinas con crema de queso y dulce de leche.",
+    "group": "POSTRES",
+    "options": [
+      {
+        "type": "PORCION",
+        "price": 2300
+      }
+    ],
+    "id": "58926105-bb79-47a4-9874-1517a76025d6"
+  },
+  {
+    "product": "PRINCIPE AZUL",
+    "description": "torta principe azul , descripcion ",
+    "group": "POSTRES",
+    "options": [
+      {
+        "type": "PORCION",
+        "price": 2800
+      }
+    ],
+    "id": "0613efa8-fb75-4463-850d-9d6893ea3805"
+  },
+  {
+    "product": "CARNE 140GR CON CHEDDAR X2",
+    "description": "CARNE 140GR CON CHEDDAR X2",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 2100
+      }
+    ],
+    "id": "8f761d54-f207-43f8-a227-659e2be8b09e"
+  },
+  {
+    "product": "CARNE 140GR CON PROVO",
+    "description": "CARNE 140GR CON PROVO",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 2650
+      }
+    ],
+    "id": "a3629b8f-02ab-4ca3-87e9-c77ea71a518a"
+  },
+  {
+    "product": "CARNE 140GR SIN QUESO",
+    "description": "CARNE 140GR SIN QUESO",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 1500
+      }
+    ],
+    "id": "5dd84198-de5b-491a-880e-1eb5fd2a08f0"
+  },
+  {
+    "product": "CHEDDAR",
+    "description": "CHEDDAR",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 950
+      }
+    ],
+    "id": "b9c274c7-678f-4915-9451-52a6b5fe1b6c"
+  },
+  {
+    "product": "PROVOLETA",
+    "description": "PROVOLETA",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 1350
+      }
+    ],
+    "id": "84e73641-bed9-4101-8748-41034261304c"
+  },
+  {
+    "product": "BACON",
+    "description": "BACON",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 1150
+      }
+    ],
+    "id": "991947f4-f601-476f-b858-0687e475a227"
+  },
+  {
+    "product": "PEPINILLOS",
+    "description": "PEPINILLOS",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 400
+      }
+    ],
+    "id": "f1536d8b-470b-4804-ae3d-99f9b1adce72"
+  },
+  {
+    "product": "CEBOLLAS",
+    "description": "CEBOLLAS",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 350
+      }
+    ],
+    "id": "60dcbc04-f596-47f5-8cd2-fff4ff8d5cd3"
+  },
+  {
+    "product": "JAMON",
+    "description": "JAMON",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 950
+      }
+    ],
+    "id": "b9e2244b-f253-4022-9552-405f76f3f97b"
+  },
+  {
+    "product": "MORRON",
+    "description": "MORRON",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 750
+      }
+    ],
+    "id": "0cc9fa56-03fc-4fee-a096-ca10c05d9613"
+  },
+  {
+    "product": "LECHUGA",
+    "description": "LECHUGA",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 600
+      }
+    ],
+    "id": "a92caae4-2256-4e60-b6c1-e0ec6d2f1e4e"
+  },
+  {
+    "product": "HUEVO",
+    "description": "HUEVO",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 750
+      }
+    ],
+    "id": "ab87cf21-0d1f-4433-bfc0-07545de2d155"
+  },
+  {
+    "product": "TOMATE",
+    "description": "TOMATE",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 550
+      }
+    ],
+    "id": "e07517c7-fcd8-4b24-956a-adc61d957e9b"
+  },
+  {
+    "product": "SALSA BARBACOA",
+    "description": "SALSA BARBACOA",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 350
+      }
+    ],
+    "id": "42da94a3-87be-403b-b657-07f47e5eda70"
+  },
+  {
+    "product": "SALSA PICANTE",
+    "description": "SALSA PICANTE",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 400
+      }
+    ],
+    "id": "79736043-41da-4bc7-b6ab-3a49bc7a5009"
+  },
+  {
+    "product": "SALSA 1/4 LIBRA",
+    "description": "SALSA 1/4 LIBRA",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 350
+      }
+    ],
+    "id": "6300e671-4c75-4bf4-ae80-922267ffc562"
+  },
+  {
+    "product": "SALSA CRIOLLA",
+    "description": "SALSA CRIOLLA",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 400
+      }
+    ],
+    "id": "56c5403d-049d-49cf-be27-72b5408e3059"
+  },
+  {
+    "product": "RUCULA",
+    "description": "RUCULA",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 350
+      }
+    ],
+    "id": "7741a834-cd12-41fe-a2c8-cbe823fdc507"
+  },
+  {
+    "product": "TOMATE CONFITADO",
+    "description": "TOMATE CONFITADO",
+    "group": "EXTRAS",
+    "options": [
+      {
+        "type": "EXTRA",
+        "price": 400
+      }
+    ],
+    "id": "c80c552d-2cfe-4137-accd-50e8230fa5c8"
+  },
+  {
+    "product": "RABIETA 473ML",
+    "description": "RABIETA 473ML",
+    "group": "BEBIDAS",
+    "options": [
+      {
+        "type": "GOLDEN",
+        "price": 2500
+      },
+      {
+        "type": "IRISH RED",
+        "price": 2500
+      },
+      {
+        "type": "IPA",
+        "price": 2499
+      },
+      {
+        "type": "RED HONEY",
+        "price": 2500
+      },
+      {
+        "type": "APA",
+        "price": 2500
+      },
+      {
+        "type": "RED IPA",
+        "price": 2500
+      }
+    ],
+    "id": "5c921330-b0b0-4cdf-b27a-a1a370b2f251"
+  },
+  {
+    "product": "QUILMES 473ML",
+    "description": "QUILMES 473ML",
+    "group": "BEBIDAS",
+    "options": [
+      {
+        "type": "LATA 473ML",
+        "price": 1500
+      }
+    ],
+    "id": "68698095-c094-4be1-b11a-15f5138db573"
+  },
+  {
+    "product": "COCA COLA 500ML",
+    "description": "COCA COLA 500ML",
+    "group": "BEBIDAS",
+    "options": [
+      {
+        "type": "BOTELLA 500ML",
+        "price": 1499
+      }
+    ],
+    "id": "00d5c339-1b1b-4a17-bdce-b274a22fb94a"
+  },
+  {
+    "product": "SPRITE 500ML",
+    "description": "SPRITE 500ML",
+    "group": "BEBIDAS",
+    "options": [
+      {
+        "type": "BOTELLA 500ML",
+        "price": 1500
+      }
+    ],
+    "id": "b6d6e247-0fdf-453b-83c7-dcb5a56f1897"
+  },
+  {
+    "product": "FANTA 500ML",
+    "description": "FANTA 500ML",
+    "group": "BEBIDAS",
+    "options": [
+      {
+        "type": "BOTELLA 500ML",
+        "price": 1500
+      }
+    ],
+    "id": "52d8c33d-9b68-42cb-9394-9c2cfff2d7a4"
+  },
+  {
+    "product": "LEVITÉ 500ML",
+    "description": "LEVITÉ 500ML",
+    "group": "BEBIDAS",
+    "options": [
+      {
+        "type": "BOTELLA 500ML",
+        "price": 1300
+      }
+    ],
+    "id": "ce1d3d7e-23b6-412a-9213-e7f171998738"
+  },
+  {
+    "product": "LEVITÉ 1LT",
+    "description": "LEVITÉ 1LT",
+    "group": "BEBIDAS",
+    "options": [
+      {
+        "type": "BOTELLA 1 LT",
+        "price": 1500
+      }
+    ],
+    "id": "b027971f-1b95-4e6a-8136-cba15cae3653"
+  },
+  {
+    "product": "JUGO BAGGIO 200ML",
+    "description": "JUGO BAGGIO 200ML",
+    "group": "BEBIDAS",
+    "options": [
+      {
+        "type": "TETRA 200ML",
+        "price": 840
+      }
+    ],
+    "id": "bc4593a1-4d57-456e-84fc-6a85378a4ab1"
+  },
+  {
+    "id": "0af1ebe5-089e-47fc-940c-5fc3bb89a778",
+    "product": "producto de prueba numero 1 ",
+    "description": "este es una productos de prueba y esta es su descripcion ",
+    "group": "COMBOS",
+    "options": [
+      {
+        "type": "combo",
+        "price": 123
+      }
+    ]
+  }
+]

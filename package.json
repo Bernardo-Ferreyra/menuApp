@@ -1,0 +1,26 @@
+{
+  "name": "casitaazul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "escpos": "^3.0.0-alpha.6",
+    "escpos-usb": "^3.0.0-alpha.4",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.5.1",
+    "usb": "^1.9.2",
+    "uuid": "^10.0.0"
+  },
+  "overrides": {
+    "usb": "^1.9.2"
+  }
+}
